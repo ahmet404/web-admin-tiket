@@ -1,0 +1,17 @@
+*{margin:0;padding:0;}
+body{font-family:arial;background-color:#eaeaea;color:#333;}
+form{background-color:white;width:95%;max-width:40em;margin:6em auto;box-shadow:0 0 .2px .2px #333;}
+form .judul{background-color:#3c8dbc;font-weight:600;color:#fff;font-size:22px;padding:23px 12px;border-bottom:.4px solid #aaa;}
+table{width:95%;max-width:450px;margin:auto;box-sizing:border-box;padding:30px 10px;}
+table a{text-decoration:none;color:black;font-size:13px;}
+table a:hover{color:limegreen;text-decoration:underline;font-style: italic;}
+table tr .right{text-align:right;font-size:13.3px;width:20%;}
+table tr .left{padding:8px;}
+table tr .ingat{font-size:13px;vertical-align:top;}
+.input-field{width:30%;padding:8px;margin-left:10px;}
+input[type=text],input[type=password]{width:80%;padding:8px;margin-left:10px;}
+input[type=checkbox]{margin-left:18px;margin-bottom:18px;border: none;outline:none;}
+input[type=submit]{margin-left:18px;padding:10px 25px;border:none;background-color:#3c8dbc;color:white;margin-right:10px;opacity:.9;}
+input[type=submit]:hover{opacity:1;}
+.pesan{text-align:center;background-color:rgba(255,128,192,.4);color:rgba(255,0,0,.7);padding:10px;margin:15px 15px 0;font-size:14px;border-radius:4px;}
+.halo{text-align:center;background-color:rgba(100,255,100,.4);color:green;padding:10px;margin:15px 15px 0;font-size:14px;border-radius:4px;}
